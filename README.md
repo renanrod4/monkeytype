@@ -1,0 +1,2 @@
+# monkeytype
+My monkeytype config
