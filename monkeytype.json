@@ -71,7 +71,7 @@
    "capsLockWarning":true,
    "playSoundOnError":"1",
    "playSoundOnClick":"6",
-   "soundVolume":"1.0",
+   "soundVolume":1.0,
    "startGraphsAtZero":true,
    "showOutOfFocusWarning":true,
    "paceCaret":"average",
@@ -97,13 +97,13 @@
    "oppositeShiftMode":"off",
    "customBackground":"",
    "customBackgroundSize":"cover",
-   "customBackgroundFilter":[
+   "customBackgroundFilter": [
       0,
       1,
       1,
-      1,
       1
-   ],
+    ],
+
    "customLayoutfluid":"qwerty#dvorak#colemak",
    "monkeyPowerLevel":"off",
    "minBurst":"off",
